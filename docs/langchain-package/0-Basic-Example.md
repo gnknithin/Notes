@@ -1,4 +1,4 @@
-:::mermaid
+```mermaid
 flowchart LR
     userInput["`**User Input**`"]
     promptTemplate["`**Prompt Template**`"]
@@ -9,4 +9,4 @@ flowchart LR
     promptTemplate -->|PromptValue|chatModel
     chatModel -->|ChatMessage|strOutputParser
     strOutputParser -->|String|result
-:::
+```
