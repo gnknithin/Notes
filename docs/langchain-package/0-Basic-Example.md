@@ -1,4 +1,7 @@
 ```mermaid
+---
+title: Prompt | Model | OutputParser
+---
 flowchart LR
     userInput["`**User Input**`"]
     promptTemplate["`**Prompt Template**`"]
