@@ -7,6 +7,6 @@ Books
 
 
 Courses
-
-1. Deeplearning AI : Building Systems with the ChatGPT API
-2. Deeplearning AI : LangChain for LLM Application Development
+1. Udemy : Fundamentals of Operating Systems Created By Hussein Nasser
+2. Deeplearning AI : Building Systems with the ChatGPT API
+3. Deeplearning AI : LangChain for LLM Application Development
