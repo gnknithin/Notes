@@ -11,5 +11,4 @@ Courses
 2. Udemy : Fundamentals of Network Engineering Created By Hussein Nasser
 3. Udemy : Fundamentals of Database Engineering Created By Hussein Nasser
 4. Udemy : Fundamentals of Backend Engineering Created By Hussein Nasser
-5. Deeplearning AI : Building Systems with the ChatGPT API
-6. Deeplearning AI : LangChain for LLM Application Development
+5. Udemy : Troubleshooting Backend Performance Created By Hussein Nasser
