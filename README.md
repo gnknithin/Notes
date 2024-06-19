@@ -12,3 +12,4 @@ Courses
 3. Udemy : Fundamentals of Database Engineering Created By Hussein Nasser
 4. Udemy : Fundamentals of Backend Engineering Created By Hussein Nasser
 5. Udemy : Troubleshooting Backend Performance Created By Hussein Nasser
+6. Udemy : Introduction to NGINX Created By Hussein Nasser
