@@ -16,3 +16,4 @@ Courses
 7. Udemy : Python on the Backend Created By Hussein Nasser
 8. Udemy : Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024] Created By Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team, Ligency Team
 9. Deeplearning AI : Building Systems with the ChatGPT API
+10. Deeplearning AI : LangChain for LLM Application Development
