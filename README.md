@@ -18,3 +18,4 @@ Courses
 9. Deeplearning AI : Building Systems with the ChatGPT API
 10. Deeplearning AI : LangChain for LLM Application Development
 11. Deeplearning AI : Building Generative AI Applications with Gradio
+12. Deeplearning AI : Open Source Models with Hugging Face
