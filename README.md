@@ -19,3 +19,4 @@ Courses
 10. Deeplearning AI : LangChain for LLM Application Development
 11. Deeplearning AI : Building Generative AI Applications with Gradio
 12. Deeplearning AI : Open Source Models with Hugging Face
+13. Deeplearning AI : Understanding and Applying Text Embeddings
