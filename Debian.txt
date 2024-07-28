@@ -1,0 +1,2 @@
+Install VSCode via Remote Connect
+sudo apt-get install lsb-release
