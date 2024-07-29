@@ -1,2 +1,3 @@
 Install VSCode via Remote Connect
 sudo apt-get install lsb-release
+sudo apt-get install build-essential
