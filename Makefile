@@ -6,3 +6,5 @@ check-git-version:
 	git --version
 install-os-git:
 	sudo apt-get install git
+check-pip-version:
+	pip --version
