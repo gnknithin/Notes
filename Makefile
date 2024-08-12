@@ -8,3 +8,5 @@ install-os-git:
 	sudo apt-get install git
 check-pip-version:
 	pip --version
+check-poetry-version:
+	poetry --version
