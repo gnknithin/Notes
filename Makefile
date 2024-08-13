@@ -10,3 +10,5 @@ check-pip-version:
 	pip --version
 check-poetry-version:
 	poetry --version
+install-poetry:
+	pipx install poetry
