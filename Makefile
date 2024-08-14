@@ -12,3 +12,5 @@ check-poetry-version:
 	poetry --version
 install-poetry:
 	pipx install poetry
+check-pipx-version:
+	pipx --version
