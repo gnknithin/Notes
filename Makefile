@@ -14,3 +14,5 @@ install-poetry:
 	pipx install poetry
 check-pipx-version:
 	pipx --version
+install-pipx:
+	pip install pipx
