@@ -16,3 +16,5 @@ check-pipx-version:
 	pipx --version
 install-pipx:
 	pip install pipx
+list-pip:
+	pip list
