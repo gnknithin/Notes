@@ -18,3 +18,5 @@ install-pipx:
 	pip install pipx
 list-pip:
 	pip list
+upgrade-pip:
+	python3 -m pip install --upgrade pip
