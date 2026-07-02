@@ -1,0 +1,33 @@
+{
+    "diffEditor.codeLens": false,
+    "diffEditor.diffAlgorithm": "advanced",
+    "diffEditor.experimental.showEmptyDecorations": true,
+    "diffEditor.experimental.showMoves": false,
+    "diffEditor.experimental.useTrueInlineView": false,
+    "diffEditor.hideUnchangedRegions.contextLineCount": 3,
+    "diffEditor.hideUnchangedRegions.enabled": false,
+    "diffEditor.hideUnchangedRegions.minimumLineCount": 3,
+    "diffEditor.hideUnchangedRegions.revealLineCount": 20,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "diffEditor.maxComputationTime": 5000,
+    "diffEditor.maxFileSize": 50,
+    "diffEditor.renderGutterMenu": true,
+    "diffEditor.renderIndicators": true,
+    "diffEditor.renderMarginRevertIcon": true,
+    "diffEditor.renderSideBySide": true,
+    "diffEditor.renderSideBySideInlineBreakpoint": 900,
+    "diffEditor.useInlineViewWhenSpaceIsLimited": true,
+    "diffEditor.wordWrap": "inherit",
+    "[diff]": {
+        "breadcrumbs.showArrays": true,
+        "debug.saveBeforeStart": "allEditorsInActiveGroup",
+        "diffEditor.codeLens": false,
+        "editor.acceptSuggestionOnCommitCharacter": true,
+        "emmet.showAbbreviationSuggestions": true,
+        "files.autoGuessEncoding": false,
+        "github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": true,
+        "js/ts.autoClosingTags.enabled": true,
+        "outline.collapseItems": "alwaysExpand",
+        "workbench.editor.languageDetection": true
+    }
+}

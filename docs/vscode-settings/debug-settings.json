@@ -1,0 +1,149 @@
+{
+    "debug.allowBreakpointsEverywhere": false,
+    "debug.autoExpandLazyVariables": "auto",
+    "debug.breakpointsView.presentation": "list",
+    "debug.closeReadonlyTabsOnEnd": false,
+    "debug.confirmOnExit": "always",
+    "debug.console.acceptSuggestionOnEnter": "on",
+    "debug.console.closeOnEnd": false,
+    "debug.console.collapseIdenticalLines": true,
+    "debug.console.fontFamily": "default",
+    "debug.console.fontSize": 14,
+    "debug.console.historySuggestions": true,
+    "debug.console.lineHeight": 0,
+    "debug.console.maximumLines": 10000,
+    "debug.console.wordWrap": true,
+    "debug.disassemblyView.showSourceCode": true,
+    "debug.enableStatusBarColor": true,
+    "debug.focusEditorOnBreak": true,
+    "debug.focusWindowOnBreak": true,
+    "debug.gutterMiddleClickAction": "logpoint",
+    "debug.hideLauncherWhileDebugging": false,
+    "debug.hideSlowPreLaunchWarning": false,
+    "debug.inlineValues": "auto",
+    "debug.internalConsoleOptions": "openOnFirstSessionStart",
+    "debug.javascript.autoAttachFilter": "disabled",
+    "debug.javascript.autoAttachSmartPattern": [
+        "${workspaceFolder}/**",
+        "!**/node_modules/**",
+        "**/$KNOWN_TOOLS$/**"
+    ],
+    "debug.javascript.automaticallyTunnelRemoteServer": true,
+    "debug.javascript.breakOnConditionalError": false,
+    "debug.javascript.codelens.npmScripts": "top",
+    "debug.javascript.debugByLinkOptions": "on",
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-node": "node"
+    },
+    "debug.javascript.enableNetworkView": true,
+    "debug.javascript.pickAndAttachOptions": {
+        "address": "localhost",
+        "attachExistingChildren": false,
+        "autoAttachChildProcesses": true,
+        "cascadeTerminateToConfigurations": [],
+        "continueOnAttach": true,
+        "customDescriptionGenerator": "",
+        "customPropertiesGenerator": "",
+        "cwd": "${workspaceFolder}",
+        "enableContentValidation": true,
+        "enableDWARF": true,
+        "env": {},
+        "envFile": "${workspaceFolder}/.env",
+        "localRoot": null,
+        "nodeVersionHint": 12,
+        "outFiles": [
+            "${workspaceFolder}/**/*.(m|c|)js",
+            "!**/node_modules/**"
+        ],
+        "outputCapture": "console",
+        "pauseForSourceMap": false,
+        "port": 9229,
+        "processId": "${command:PickProcess}",
+        "remoteHostHeader": "",
+        "remoteRoot": null,
+        "resolveSourceMapLocations": [
+            "${workspaceFolder}/**",
+            "!**/node_modules/**"
+        ],
+        "restart": true,
+        "runtimeSourcemapPausePatterns": [],
+        "showAsyncStacks": true,
+        "skipFiles": [
+            "${/**"
+        ],
+        "smartStep": true,
+        "sourceMapPathOverrides": {
+            "webpack://?:*/*": "${workspaceFolder}/*",
+            "webpack:///./~/*": "${workspaceFolder}/node_modules/*",
+            "meteor://💻app/*": "${workspaceFolder}/*"
+        },
+        "sourceMapRenames": true,
+        "sourceMaps": true,
+        "timeout": 10000,
+        "timeouts": {
+            "hoverEvaluation": 500,
+            "sourceMapCumulativePause": 1000,
+            "sourceMapMinPause": 1000
+        },
+        "trace": true,
+        "websocketAddress": ""
+    },
+    "debug.javascript.resourceRequestOptions": {},
+    "debug.javascript.terminalOptions": {
+        "autoAttachChildProcesses": true,
+        "cascadeTerminateToConfigurations": [],
+        "command": "npm start",
+        "customDescriptionGenerator": "",
+        "customPropertiesGenerator": "",
+        "cwd": "${workspaceFolder}",
+        "enableContentValidation": true,
+        "enableDWARF": true,
+        "env": {},
+        "envFile": "${workspaceFolder}/.env",
+        "localRoot": null,
+        "nodeVersionHint": 12,
+        "outFiles": [
+            "${workspaceFolder}/**/*.(m|c|)js",
+            "!**/node_modules/**"
+        ],
+        "outputCapture": "console",
+        "pauseForSourceMap": false,
+        "remoteRoot": null,
+        "resolveSourceMapLocations": [
+            "${workspaceFolder}/**",
+            "!**/node_modules/**"
+        ],
+        "runtimeSourcemapPausePatterns": [],
+        "showAsyncStacks": true,
+        "skipFiles": [
+            "${/**"
+        ],
+        "smartStep": true,
+        "sourceMapPathOverrides": {
+            "webpack://?:*/*": "${workspaceFolder}/*",
+            "webpack:///./~/*": "${workspaceFolder}/node_modules/*",
+            "meteor://💻app/*": "${workspaceFolder}/*"
+        },
+        "sourceMapRenames": true,
+        "sourceMaps": true,
+        "timeout": 10000,
+        "timeouts": {
+            "hoverEvaluation": 500,
+            "sourceMapCumulativePause": 1000,
+            "sourceMapMinPause": 1000
+        },
+        "trace": true,
+    },
+    "debug.javascript.unmapMissingSources": false,
+    "debug.onTaskErrors": "prompt",
+    "debug.openDebug": "openOnDebugBreak",
+    "debug.openExplorerOnEnd": false,
+    "debug.saveBeforeStart": "allEditorsInActiveGroup",
+    "debug.showBreakpointsInOverviewRuler": false,
+    "debug.showInlineBreakpointCandidates": true,
+    "debug.showInStatusBar": "onFirstSessionStart",
+    "debug.showSubSessionsInToolBar": false,
+    "debug.showVariableTypes": false,
+    "debug.terminal.clearBeforeReusing": false,
+    "debug.toolBarLocation": "floating"
+}

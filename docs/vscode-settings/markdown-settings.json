@@ -1,0 +1,75 @@
+{
+    "markdown-mermaid.controls.show": "always",
+    "markdown-mermaid.darkModeTheme": "vscode",
+    "markdown-mermaid.languages": [
+        "mermaid"
+    ],
+    "markdown-mermaid.lightModeTheme": "vscode",
+    "markdown-mermaid.maxHeight": "",
+    "markdown-mermaid.maxTextSize": 50000,
+    "markdown-mermaid.mouseNavigation.enabled": "alt",
+    "markdown-mermaid.resizable": true,
+    "markdown.copyFiles.destination": {},
+    "markdown.copyFiles.overwriteBehavior": "nameIncrementally",
+    "markdown.editor.drop.copyIntoWorkspace": "mediaFiles",
+    "markdown.editor.drop.enabled": "smart",
+    "markdown.editor.filePaste.audioSnippet": "<audio controls src=\"${src}\" title=\"${title}\"></audio>",
+    "markdown.editor.filePaste.copyIntoWorkspace": "mediaFiles",
+    "markdown.editor.filePaste.enabled": "smart",
+    "markdown.editor.filePaste.videoSnippet": "<video controls src=\"${src}\" title=\"${title}\"></video>",
+    "markdown.editor.pasteUrlAsFormattedLink.enabled": "smartWithSelection",
+    "markdown.editor.updateLinksOnPaste.enabled": true,
+    "markdown.links.openLocation": "currentGroup",
+    "markdown.math.enabled": true,
+    "markdown.math.macros": {},
+    "markdown.occurrencesHighlight.enabled": false,
+    "markdown.preferredMdPathExtensionStyle": "auto",
+    "markdown.preview.breaks": false,
+    "markdown.preview.doubleClickToSwitchToEditor": false,
+    "markdown.preview.fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
+    "markdown.preview.fontSize": 14,
+    "markdown.preview.frontMatter": "table",
+    "markdown.preview.lineHeight": 1.6,
+    "markdown.preview.linkify": true,
+    "markdown.preview.markEditorSelection": false,
+    "markdown.preview.openMarkdownLinks": "inPreview",
+    "markdown.preview.scrollEditorWithPreview": true,
+    "markdown.preview.scrollPreviewWithEditor": true,
+    "markdown.preview.typographer": false,
+    "markdown.server.log": "off",
+    "markdown.styles": [],
+    "markdown.suggest.paths.enabled": true,
+    "markdown.suggest.paths.includeWorkspaceHeaderCompletions": "onDoubleHash",
+    "markdown.trace.server": "off",
+    "markdown.updateLinksOnFileMove.enabled": "never",
+    "markdown.updateLinksOnFileMove.enableForDirectories": true,
+    "markdown.updateLinksOnFileMove.include": [
+        "**/*.{md,mkd,mdwn,mdown,markdown,markdn,mdtxt,mdtext,workbook}",
+        "**/*.{jpg,jpe,jpeg,png,bmp,gif,ico,webp,avif,tiff,svg,mp4}"
+    ],
+    "markdown.validate.duplicateLinkDefinitions.enabled": "warning",
+    "markdown.validate.enabled": false,
+    "markdown.validate.fileLinks.enabled": "warning",
+    "markdown.validate.fileLinks.markdownFragmentLinks": "inherit",
+    "markdown.validate.fragmentLinks.enabled": "warning",
+    "markdown.validate.ignoredLinks": [],
+    "markdown.validate.referenceLinks.enabled": "warning",
+    "markdown.validate.unusedLinkDefinitions.enabled": "hint",
+    "[markdown-math]": {
+        "breadcrumbs.showArrays": true
+    },
+    "[markdown]": {
+        "editor.unicodeHighlight.ambiguousCharacters": false,
+        "editor.unicodeHighlight.invisibleCharacters": false,
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        }
+    },
+    "[markdown_latex_combined]": {
+        "breadcrumbs.showArrays": true
+    }
+}

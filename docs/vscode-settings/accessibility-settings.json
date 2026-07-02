@@ -1,0 +1,177 @@
+{
+    "accessibility.accessibleView.closeOnKeyPress": true,
+    "accessibility.chat.showCheckmarks": false,
+    "accessibility.debugWatchVariableAnnouncements": true,
+    "accessibility.hideAccessibleView": false,
+    "accessibility.openChatEditedFiles": false,
+    "accessibility.replEditor.autoFocusReplExecution": "input",
+    "accessibility.replEditor.readLastExecutionOutput": true,
+    "accessibility.signalOptions.debouncePositionChanges": false,
+    "accessibility.signalOptions.experimental.delays.errorAtPosition": {
+        "announcement": 3000,
+        "sound": 1000
+    },
+    "accessibility.signalOptions.experimental.delays.general": {
+        "announcement": 3000,
+        "sound": 400
+    },
+    "accessibility.signalOptions.experimental.delays.warningAtPosition": {
+        "announcement": 3000,
+        "sound": 1000
+    },
+    "accessibility.signalOptions.volume": 70,
+    "accessibility.signals.chatEditModifiedFile": {
+        "sound": "auto"
+    },
+    "accessibility.signals.chatRequestSent": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.chatResponseReceived": {
+        "sound": "auto"
+    },
+    "accessibility.signals.chatUserActionRequired": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.clear": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.codeActionApplied": {
+        "sound": "auto"
+    },
+    "accessibility.signals.codeActionTriggered": {
+        "sound": "auto"
+    },
+    "accessibility.signals.diffLineDeleted": {
+        "sound": "auto"
+    },
+    "accessibility.signals.diffLineInserted": {
+        "sound": "auto"
+    },
+    "accessibility.signals.diffLineModified": {
+        "sound": "auto"
+    },
+    "accessibility.signals.editsKept": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.editsUndone": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.format": {
+        "sound": "never",
+        "announcement": "never"
+    },
+    "accessibility.signals.lineHasBreakpoint": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.lineHasError": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.lineHasFoldedArea": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.lineHasInlineSuggestion": {
+        "sound": "auto"
+    },
+    "accessibility.signals.lineHasWarning": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.nextEditSuggestion": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.noInlayHints": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.notebookCellCompleted": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.notebookCellFailed": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.onDebugBreak": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.positionHasError": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.positionHasWarning": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.progress": {
+        "sound": "auto",
+        "announcement": "off"
+    },
+    "accessibility.signals.save": {
+        "sound": "never",
+        "announcement": "never"
+    },
+    "accessibility.signals.taskCompleted": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.taskFailed": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.terminalBell": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.terminalCommandFailed": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.terminalCommandSucceeded": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.terminalQuickFix": {
+        "sound": "auto",
+        "announcement": "auto"
+    },
+    "accessibility.signals.voiceRecordingStarted": {
+        "sound": "on"
+    },
+    "accessibility.signals.voiceRecordingStopped": {
+        "sound": "auto"
+    },
+    "accessibility.underlineLinks": false,
+    "accessibility.verboseChatProgressUpdates": true,
+    "accessibility.verbosity.chatQuestionCarousel": true,
+    "accessibility.verbosity.comments": true,
+    "accessibility.verbosity.debug": true,
+    "accessibility.verbosity.diffEditor": true,
+    "accessibility.verbosity.diffEditorActive": true,
+    "accessibility.verbosity.emptyEditorHint": true,
+    "accessibility.verbosity.find": true,
+    "accessibility.verbosity.hover": true,
+    "accessibility.verbosity.inlineChat": true,
+    "accessibility.verbosity.inlineCompletions": true,
+    "accessibility.verbosity.keybindingsEditor": true,
+    "accessibility.verbosity.notebook": true,
+    "accessibility.verbosity.notification": true,
+    "accessibility.verbosity.panelChat": true,
+    "accessibility.verbosity.replEditor": true,
+    "accessibility.verbosity.sessionsChat": true,
+    "accessibility.verbosity.sourceControl": true,
+    "accessibility.verbosity.terminal": true,
+    "accessibility.verbosity.terminalChatOutput": true,
+    "accessibility.verbosity.walkthrough": true,
+    "accessibility.windowTitleOptimized": true,
+    "application.experimental.rendererProfiling": false
+}

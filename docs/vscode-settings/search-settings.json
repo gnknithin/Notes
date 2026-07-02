@@ -1,0 +1,43 @@
+{
+    "search.actionsPosition": "right",
+    "search.collapseResults": "alwaysExpand",
+    "search.decorations.badges": true,
+    "search.decorations.colors": true,
+    "search.defaultViewMode": "list",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true
+    },
+    "search.experimental.closedNotebookRichContentResults": false,
+    "search.experimental.useIgnoreFilesInFindFiles": false,
+    "search.followSymlinks": true,
+    "search.maxResults": 20000,
+    "search.mode": "view",
+    "search.quickAccess.preserveInput": false,
+    "search.quickOpen.history.filterSortOrder": "default",
+    "search.searchEditor.defaultNumberOfContextLines": 1,
+    "search.quickOpen.includeHistory": true,
+    "search.quickOpen.includeSymbols": false,
+    "search.ripgrep.maxThreads": 0,
+    "search.searchEditor.doubleClickBehaviour": "goToLocation",
+    "search.searchEditor.focusResultsOnSearch": false,
+    "search.searchEditor.reusePriorSearchConfiguration": false,
+    "search.searchEditor.singleClickBehaviour": "default",
+    "search.searchOnType": true,
+    "search.searchOnTypeDebouncePeriod": 300,
+    "search.searchView.keywordSuggestions": false,
+    "search.searchView.semanticSearchBehavior": "manual",
+    "search.seedOnFocus": false,
+    "search.seedWithNearestWord": false,
+    "search.showLineNumbers": false,
+    "search.smartCase": false,
+    "search.sortOrder": "default",
+    "search.useGlobalIgnoreFiles": false,
+    "search.useIgnoreFiles": true,
+    "search.useParentIgnoreFiles": false,
+    "search.useReplacePreview": true,
+    "[search-result]": {
+        "editor.lineNumbers": "off"
+    }
+}

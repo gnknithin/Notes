@@ -1,0 +1,7 @@
+{
+    "inlineChat.affordance": "off",
+    "inlineChat.askInChat": true,
+    "inlineChat.defaultModel": "",
+    "inlineChat.fixDiagnostics": true,
+    "inlineChat.notebookAgent": false
+}

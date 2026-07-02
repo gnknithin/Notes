@@ -1,0 +1,11 @@
+{
+    "microsoft-sovereign-cloud.customEnvironment": {
+        "activeDirectoryEndpointUrl": "",
+        "activeDirectoryResourceId": "",
+        "managementEndpointUrl": "",
+        "name": "",
+        "portalUrl": "",
+        "resourceManagerEndpointUrl": ""
+    },
+    "microsoft-sovereign-cloud.environment": ""
+}

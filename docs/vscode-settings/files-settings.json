@@ -1,0 +1,43 @@
+{
+    "files.associations": {},
+    "files.autoGuessEncoding": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "files.autoSaveWhenNoErrors": false,
+    "files.autoSaveWorkspaceFilesOnly": false,
+    "files.candidateGuessEncodings": [
+        "utf8"
+    ],
+    "files.defaultLanguage": "",
+    "files.enableTrash": true,
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "files.insertFinalNewline": false,
+    "files.participants.timeout": 60000,
+    "files.readonlyExclude": {},
+    "files.readonlyFromPermissions": false,
+    "files.readonlyInclude": {},
+    "files.refactoring.autoSave": true,
+    "files.restoreUndoStack": true,
+    "files.saveConflictResolution": "askUser",
+    "files.simpleDialog.enable": false,
+    "files.trimFinalNewlines": false,
+    "files.trimTrailingWhitespace": false,
+    "files.trimTrailingWhitespaceInRegexAndStrings": true,
+    "files.watcherExclude": {
+        ".git/objects/**": true,
+        ".git/subtree-cache/**": true,
+        ".hg/store/**": true,
+        "*/.git/objects/**": true,
+        "*/.git/subtree-cache/**": true,
+        "*/.hg/store/**": true
+    },
+    "files.watcherInclude": []
+}

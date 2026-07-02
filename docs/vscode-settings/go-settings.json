@@ -1,0 +1,159 @@
+{
+    "go.addTags": {
+        "tags": "json",
+        "options": "json=omitempty",
+        "promptForTags": false,
+        "transform": "snakecase",
+        "template": ""
+    },
+    "go.alternateTools": {
+        "customFormatter": "",
+        "dlv": "dlv",
+        "go": "go",
+        "gopls": "gopls",
+    },
+    "go.buildFlags": [],
+    "go.buildTags": "",
+    "go.coverageDecorator": {
+        "type": "highlight",
+        "coveredHighlightColor": "rgba(64,128,128,0.5)",
+        "uncoveredHighlightColor": "rgba(128,64,64,0.25)",
+        "coveredBorderColor": "rgba(64,128,128,0.5)",
+        "uncoveredBorderColor": "rgba(128,64,64,0.25)",
+        "coveredGutterStyle": "blockblue",
+        "uncoveredGutterStyle": "slashyellow"
+    },
+    "go.coverageOptions": "showBothCoveredAndUncoveredCode",
+    "go.coverMode": "default",
+    "go.coverOnSave": false,
+    "go.coverOnSingleTest": false,
+    "go.coverOnSingleTestFile": false,
+    "go.coverOnTestPackage": true,
+    "go.coverShowCounts": false,
+    "go.delveConfig": {
+        "apiVersion": 2,
+        "debugAdapter": "dlv-dap",
+        "dlvFlags": [],
+        "dlvLoadConfig": {
+            "followPointers": true,
+            "maxVariableRecurse": 1,
+            "maxStringLen": 64,
+            "maxArrayValues": 64,
+            "maxStructFields": -1
+        },
+        "hideSystemGoroutines": false,
+        "logOutput": "debugger",
+        "showGlobalVariables": false,
+        "showLog": false,
+        "showRegisters": false,
+        "substitutePath": []
+    },
+    "go.diagnostic.vulncheck": "Prompt",
+    "go.disableConcurrentTests": false,
+    "go.editorContextMenuCommands": {
+        "toggleTestFile": true,
+        "addTags": true,
+        "removeTags": false,
+        "fillStruct": false,
+        "testAtCursor": true,
+        "testFile": false,
+        "testPackage": false,
+        "generateTestForFunction": true,
+        "generateTestForFile": false,
+        "generateTestForPackage": false,
+        "addImport": true,
+        "testCoverage": true,
+        "playground": true,
+        "debugTestAtCursor": true,
+        "benchmarkAtCursor": false,
+        "compilerDetails": false
+    },
+    "go.enableCodeLens": {
+        "runtest": true
+    },
+    "go.experiments": {
+        "testExplorer": true
+    },
+    "go.formatFlags": [],
+    "go.formatTool": "default",
+    "go.generateTestsFlags": [],
+    "go.gopath": null,
+    "go.goroot": null,
+    "go.inferGopath": false,
+    "go.inlayHints.assignVariableTypes": false,
+    "go.inlayHints.compositeLiteralFields": false,
+    "go.inlayHints.compositeLiteralTypes": false,
+    "go.inlayHints.constantValues": false,
+    "go.inlayHints.functionTypeParameters": false,
+    "go.inlayHints.ignoredError": false,
+    "go.inlayHints.parameterNames": false,
+    "go.inlayHints.rangeVariableTypes": false,
+    "go.installDependenciesWhenBuilding": false,
+    "go.languageServerFlags": [],
+    "go.lintFlags": [],
+    "go.lintOnSave": "package",
+    "go.lintTool": "golangci-lint-v2",
+    "go.playground": {
+        "openbrowser": true,
+        "share": true,
+        "run": true
+    },
+    "go.removeTags": {
+        "tags": "",
+        "options": "",
+        "promptForTags": false
+    },
+    "go.showWelcome": true,
+    "go.survey.prompt": true,
+    "go.tasks.provideDefault": true,
+    "go.terminal.activateEnvironment": true,
+    "go.testEnvFile": null,
+    "go.testEnvVars": {},
+    "go.testExplorer.alwaysRunBenchmarks": false,
+    "go.testExplorer.concatenateMessages": true,
+    "go.testExplorer.enable": true,
+    "go.testExplorer.packageDisplayMode": "flat",
+    "go.testExplorer.showDynamicSubtestsInEditor": false,
+    "go.testExplorer.showOutput": true,
+    "go.testFlags": null,
+    "go.testOnSave": false,
+    "go.testTags": null,
+    "go.testTimeout": "30s",
+    "go.toolsEnvVars": {},
+    "go.toolsGopath": null,
+    "go.toolsManagement.autoUpdate": false,
+    "go.toolsManagement.checkForUpdates": "proxy",
+    "go.toolsManagement.go": "",
+    "go.trace.server": "messages",
+    "go.useLanguageServer": true,
+    "go.vetFlags": [],
+    "go.vetOnSave": "package",
+    "[go.asm]": {
+        "breadcrumbs.showArrays": true,
+    },
+    "[go.mod]": {
+        "breadcrumbs.showArrays": true
+    },
+    "[go.work]": {
+        "breadcrumbs.showArrays": true
+    },
+    "[go.sum]": {
+        "breadcrumbs.showArrays": true
+    },
+    "gopls": {
+        "build.buildFlags": [],
+        "build.directoryFilters": [
+            "-**/node_modules"
+        ]
+    },
+    "[go]": {
+        "editor.insertSpaces": false,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        }
+    },
+    "[gotmpl]": {
+        "breadcrumbs.showArrays": true
+    }
+}

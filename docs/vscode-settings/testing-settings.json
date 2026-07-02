@@ -1,0 +1,22 @@
+{
+    "testing.alwaysRevealTestOnStateChange": false,
+    "testing.automaticallyOpenPeekView": "never",
+    "testing.automaticallyOpenPeekViewDuringAutoRun": false,
+    "testing.automaticallyOpenTestResults": "openOnTestStart",
+    "testing.countBadge": "failed",
+    "testing.coverageBarThresholds": {
+        "red": 0,
+        "yellow": 60,
+        "green": 90
+    },
+    "testing.coverageMinimapEnabled": true,
+    "testing.coverageToolbarEnabled": false,
+    "testing.defaultGutterClickAction": "run",
+    "testing.displayedCoveragePercent": "totalCoverage",
+    "testing.followRunningTest": false,
+    "testing.gutterEnabled": true,
+    "testing.resultsView.layout": "treeRight",
+    "testing.saveBeforeTest": true,
+    "testing.showAllMessages": false,
+    "testing.showCoverageInExplorer": true
+}

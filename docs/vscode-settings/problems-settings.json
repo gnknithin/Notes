@@ -1,0 +1,8 @@
+{
+    "problems.autoReveal": true,
+    "problems.decorations.enabled": true,
+    "problems.defaultViewMode": "tree",
+    "problems.showCurrentInStatus": false,
+    "problems.sortOrder": "severity",
+    "problems.visibility": true
+}

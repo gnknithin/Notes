@@ -1,0 +1,7 @@
+{
+    "interactiveWindow.alwaysScrollOnNewCell": true,
+    "interactiveWindow.collapseCellInputCode": "fromEditor",
+    "interactiveWindow.executeWithShiftEnter": false,
+    "interactiveWindow.promptToSaveOnClose": false,
+    "interactiveWindow.showExecutionHint": true
+}

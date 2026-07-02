@@ -1,0 +1,13 @@
+{
+    "task.autoDetect": "on",
+    "task.notifyWindowOnTaskCompletion": 60000,
+    "task.problemMatchers.neverPrompt": false,
+    "task.quickOpen.detail": true,
+    "task.quickOpen.history": 30,
+    "task.quickOpen.showAll": false,
+    "task.quickOpen.skip": false,
+    "task.reconnection": true,
+    "task.saveBeforeRun": "always",
+    "task.slowProviderWarning": true,
+    "task.verboseLogging": false
+}

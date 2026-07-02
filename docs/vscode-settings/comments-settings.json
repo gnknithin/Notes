@@ -1,0 +1,8 @@
+{
+    "comments.collapseOnResolve": true,
+    "comments.maxHeight": true,
+    "comments.openView": "firstFile",
+    "comments.thread.confirmOnCollapse": "whenHasUnsubmittedComments",
+    "comments.useRelativeTime": true,
+    "comments.visible": true
+}

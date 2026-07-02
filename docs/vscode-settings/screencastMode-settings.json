@@ -1,0 +1,14 @@
+{
+    "screencastMode.fontSize": 56,
+    "screencastMode.keyboardOptions": {
+        "showKeys": true,
+        "showKeybindings": true,
+        "showCommands": true,
+        "showCommandGroups": false,
+        "showSingleEditorCursorMoves": true
+    },
+    "screencastMode.keyboardOverlayTimeout": 800,
+    "screencastMode.mouseIndicatorColor": "#FF0000",
+    "screencastMode.mouseIndicatorSize": 20,
+    "screencastMode.verticalOffset": 20
+}

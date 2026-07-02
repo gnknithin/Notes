@@ -1,0 +1,6 @@
+{
+    "merge-conflict.autoNavigateNextConflict.enabled": false,
+    "merge-conflict.codeLens.enabled": true,
+    "merge-conflict.decorators.enabled": true,
+    "merge-conflict.diffViewPosition": "Current"
+}

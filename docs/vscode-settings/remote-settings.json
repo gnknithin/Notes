@@ -1,0 +1,38 @@
+{
+    "remote.autoForwardPorts": true,
+    "remote.autoForwardPortsFallback": 20,
+    "remote.autoForwardPortsSource": "process",
+    "remote.defaultExtensionsIfInstalledLocally": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "GitHub.vscode-pull-request-github"
+    ],
+    "remote.downloadExtensionsLocally": false,
+    "remote.extensionKind": {
+        "pub.name": [
+            "ui"
+        ]
+    },
+    "remote.forwardOnOpen": true,
+    "remote.localPortHost": "localhost",
+    "remote.otherPortsAttributes": {
+        "onAutoForward": "ignore",
+        "elevateIfNeeded": false,
+        "label": "Application",
+        "protocol": "https",
+        "requireLocalPort": false
+    },
+    "remote.portsAttributes": {
+        "3000": {
+            "label": "Application",
+            "onAutoForward": "openPreview"
+        },
+        "443": {
+            "protocol": "https"
+        },
+        "8443": {
+            "protocol": "https"
+        }
+    },
+    "remote.restoreForwardedPorts": true
+}

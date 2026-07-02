@@ -1,0 +1,52 @@
+{
+    "emmet.excludeLanguages": [
+        "markdown"
+    ],
+    "emmet.extensionsPath": [],
+    "emmet.includeLanguages": {},
+    "emmet.optimizeStylesheetParsing": true,
+    "emmet.preferences": {
+        "bem.elementSeparator": "__",
+        "bem.modifierSeparator": "_",
+        "css.color.short": true,
+        "css.floatUnit": "em",
+        "css.fuzzySearchMinScore": 0.3,
+        "css.intUnit": "px",
+        "css.mozProperties": null,
+        "css.msProperties": null,
+        "css.oProperties": null,
+        "css.propertyEnd": ";",
+        "css.valueSeparator": ": ",
+        "css.webkitProperties": null,
+        "filter.commentAfter": "\n<!-- /[#ID][.CLASS] -->",
+        "filter.commentBefore": "",
+        "filter.commentTrigger": [
+            "id",
+            "class"
+        ],
+        "format.forceIndentationForTags": [
+            "body"
+        ],
+        "format.noIndentTags": [
+            "html"
+        ],
+        "output.inlineBreak": 0,
+        "output.reverseAttributes": false,
+        "output.selfClosingStyle": "html",
+        "profile.allowCompactBoolean": false,
+        "sass.propertyEnd": "",
+        "sass.valueSeparator": ": ",
+        "stylus.propertyEnd": "",
+        "stylus.valueSeparator": " "
+    },
+    "emmet.showAbbreviationSuggestions": true,
+    "emmet.showExpandedAbbreviation": "always",
+    "emmet.showSuggestionsAsSnippets": false,
+    "emmet.syntaxProfiles": {},
+    "emmet.triggerExpansionOnTab": false,
+    "emmet.useInlineCompletions": false,
+    "emmet.variables": {
+        "charset": "UTF-8",
+        "lang": "en"
+    }
+}

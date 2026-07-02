@@ -1,0 +1,8 @@
+{
+    "telemetry.editStats.details.enabled": false,
+    "telemetry.editStats.enabled": true,
+    "telemetry.editStats.showDecorations": false,
+    "telemetry.editStats.showStatusBar": false,
+    "telemetry.feedback.enabled": true,
+    "telemetry.performance.inputLatencySamplingProbability": 0
+}

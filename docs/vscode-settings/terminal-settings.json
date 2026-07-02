@@ -1,0 +1,306 @@
+{
+    "terminal.explorerKind": "integrated",
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": false,
+    "terminal.integrated.accessibleViewPreserveCursorPosition": false,
+    "terminal.integrated.agentHostProfile.linux": {
+        "path": "",
+        "icon": ""
+    },
+    "terminal.integrated.agentHostProfile.osx": {
+        "path": "",
+        "icon": ""
+    },
+    "terminal.integrated.agentHostProfile.windows": {
+        "path": "",
+        "icon": ""
+    },
+    "terminal.integrated.allowChords": true,
+    "terminal.integrated.allowedLinkSchemes": [
+        "file",
+        "http",
+        "https",
+        "mailto",
+        "vscode",
+        "vscode-insiders"
+    ],
+    "terminal.integrated.allowInUntrustedWorkspace": false,
+    "terminal.integrated.allowMnemonics": false,
+    "terminal.integrated.altClickMovesCursor": true,
+    "terminal.integrated.automationProfile.linux": {
+        "path": "",
+        "icon": ""
+    },
+    "terminal.integrated.automationProfile.osx": {
+        "path": "",
+        "icon": ""
+    },
+    "terminal.integrated.automationProfile.windows": {
+        "path": "",
+        "icon": ""
+    },
+    "terminal.integrated.autoReplies": {},
+    "terminal.integrated.bellDuration": 1000,
+    "terminal.integrated.commandsToSkipShell": [],
+    "terminal.integrated.confirmOnExit": "never",
+    "terminal.integrated.confirmOnKill": "editor",
+    "terminal.integrated.copyOnSelection": false,
+    "terminal.integrated.cursorBlinking": false,
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.cursorStyleInactive": "outline",
+    "terminal.integrated.cursorWidth": 1,
+    "terminal.integrated.customGlyphs": true,
+    "terminal.integrated.cwd": "",
+    "terminal.integrated.defaultLocation": "view",
+    "terminal.integrated.defaultProfile.linux": null,
+    "terminal.integrated.defaultProfile.osx": null,
+    "terminal.integrated.defaultProfile.windows": null,
+    "terminal.integrated.detectLocale": "auto",
+    "terminal.integrated.developer.devMode": false,
+    "terminal.integrated.developer.ptyHost.latency": 0,
+    "terminal.integrated.developer.ptyHost.startupDelay": 0,
+    "terminal.integrated.drawBoldTextInBrightColors": true,
+    "terminal.integrated.enableFileLinks": "on",
+    "terminal.integrated.enableImages": false,
+    "terminal.integrated.enableKittyKeyboardProtocol": true,
+    "terminal.integrated.enableMultiLinePasteWarning": "auto",
+    "terminal.integrated.enableNotifications": true,
+    "terminal.integrated.enablePersistentSessions": true,
+    "terminal.integrated.enableVisualBell": false,
+    "terminal.integrated.enableWin32InputMode": false,
+    "terminal.integrated.env.linux": {},
+    "terminal.integrated.env.osx": {},
+    "terminal.integrated.env.windows": {},
+    "terminal.integrated.environmentChangesRelaunch": true,
+    "terminal.integrated.fastScrollSensitivity": 5,
+    "terminal.integrated.focusAfterRun": "none",
+    "terminal.integrated.fontFamily": "",
+    "terminal.integrated.fontLigatures.enabled": false,
+    "terminal.integrated.fontLigatures.fallbackLigatures": [
+        "<--",
+        "<---",
+        "<<-",
+        "<-",
+        "->",
+        "->>",
+        "-->",
+        "--->",
+        "<==",
+        "<===",
+        "<<=",
+        "<=",
+        "=>",
+        "=>>",
+        "==>",
+        "===>",
+        ">=",
+        ">>=",
+        "<->",
+        "<-->",
+        "<--->",
+        "<---->",
+        "<=>",
+        "<==>",
+        "<===>",
+        "<====>",
+        "::",
+        ":::",
+        "<~~",
+        "</",
+        "</>",
+        "/>",
+        "~~>",
+        "==",
+        "!=",
+        "/=",
+        "~=",
+        "<>",
+        "===",
+        "!==",
+        "!===",
+        "<:",
+        ":=",
+        "*=",
+        "*+",
+        "<*",
+        "<*>",
+        "*>",
+        "<|",
+        "<|>",
+        "|>",
+        "+*",
+        "=*",
+        "=:",
+        ":>",
+        "/*",
+        "*/",
+        "+++",
+        "<!--",
+        "<!---"
+    ],
+    "terminal.integrated.fontLigatures.featureSettings": "\"calt\" on",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.fontWeightBold": "bold",
+    "terminal.integrated.gpuAcceleration": "auto",
+    "terminal.integrated.hideOnLastClosed": true,
+    "terminal.integrated.hideOnStartup": "never",
+    "terminal.integrated.ignoreBracketedPasteMode": false,
+    "terminal.integrated.ignoreProcessNames": [
+        "starship",
+        "oh-my-posh",
+        "bash",
+        "zsh"
+    ],
+    "terminal.integrated.initialHint": true,
+    "terminal.integrated.initialHintCopilotCli": false,
+    "terminal.integrated.letterSpacing": 0,
+    "terminal.integrated.lineHeight": 1.1,
+    "terminal.integrated.localEchoEnabled": "off",
+    "terminal.integrated.localEchoExcludePrograms": [
+        "vim",
+        "vi",
+        "nano",
+        "tmux"
+    ],
+    "terminal.integrated.localEchoLatencyThreshold": 30,
+    "terminal.integrated.localEchoStyle": "dim",
+    "terminal.integrated.macOptionClickForcesSelection": false,
+    "terminal.integrated.macOptionIsMeta": false,
+    "terminal.integrated.middleClickBehavior": "default",
+    "terminal.integrated.minimumContrastRatio": 4.5,
+    "terminal.integrated.mouseWheelScrollSensitivity": 1,
+    "terminal.integrated.mouseWheelZoom": false,
+    "terminal.integrated.persistentSessionReviveProcess": "onExit",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+        },
+        "zsh": {
+            "path": "zsh"
+        },
+        "fish": {
+            "path": "fish"
+        },
+        "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+        },
+        "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+        }
+    },
+    "terminal.integrated.profiles.osx": {
+        "bash": {
+            "path": "bash",
+            "args": [
+                "-l"
+            ],
+            "icon": "terminal-bash"
+        },
+        "zsh": {
+            "path": "zsh",
+            "args": [
+                "-l"
+            ]
+        },
+        "fish": {
+            "path": "fish",
+            "args": [
+                "-l"
+            ]
+        },
+        "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+        },
+        "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+        }
+    },
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash",
+            "icon": "terminal-git-bash"
+        }
+    },
+    "terminal.integrated.rescaleOverlappingGlyphs": true,
+    "terminal.integrated.rightClickBehavior": "default",
+    "terminal.integrated.scrollback": 1000,
+    "terminal.integrated.sendKeybindingsToShell": false,
+    "terminal.integrated.shellIntegration.decorationsEnabled": "both",
+    "terminal.integrated.shellIntegration.enabled": true,
+    "terminal.integrated.shellIntegration.environmentReporting": false,
+    "terminal.integrated.shellIntegration.history": 100,
+    "terminal.integrated.shellIntegration.quickFixEnabled": true,
+    "terminal.integrated.shellIntegration.showCommandGuide": true,
+    "terminal.integrated.shellIntegration.timeout": -1,
+    "terminal.integrated.showExitAlert": true,
+    "terminal.integrated.smoothScrolling": false,
+    "terminal.integrated.splitCwd": "inherited",
+    "terminal.integrated.stickyScroll.enabled": true,
+    "terminal.integrated.stickyScroll.ignoredCommands": [
+        "clear",
+        "cls",
+        "clear-host",
+        "agent",
+        "agy",
+        "copilot",
+        "claude",
+        "codex",
+        "gemini"
+    ],
+    "terminal.integrated.stickyScroll.maxLineCount": 5,
+    "terminal.integrated.suggest.cdPath": "absolute",
+    "terminal.integrated.suggest.enabled": true,
+    "terminal.integrated.suggest.inlineSuggestion": "alwaysOnTop",
+    "terminal.integrated.suggest.insertTrailingSpace": false,
+    "terminal.integrated.suggest.providers": {
+        "lsp": false
+    },
+    "terminal.integrated.suggest.quickSuggestions": {
+        "commands": "off",
+        "arguments": "off",
+        "unknown": "off"
+    },
+    "terminal.integrated.suggest.runOnEnter": "never",
+    "terminal.integrated.suggest.selectionMode": "partial",
+    "terminal.integrated.suggest.showStatusBar": true,
+    "terminal.integrated.suggest.suggestOnTriggerCharacters": false,
+    "terminal.integrated.suggest.upArrowNavigatesHistory": true,
+    "terminal.integrated.suggest.windowsExecutableExtensions": {},
+    "terminal.integrated.tabs.allowAgentCliTitle": true,
+    "terminal.integrated.tabs.defaultColor": null,
+    "terminal.integrated.tabs.defaultIcon": "terminal",
+    "terminal.integrated.tabs.description": "${task}${separator}${local}${separator}${cwdFolder}",
+    "terminal.integrated.tabs.enableAnimation": true,
+    "terminal.integrated.tabs.enabled": true,
+    "terminal.integrated.tabs.focusMode": "doubleClick",
+    "terminal.integrated.tabs.hideCondition": "singleTerminal",
+    "terminal.integrated.tabs.location": "right",
+    "terminal.integrated.tabs.separator": " - ",
+    "terminal.integrated.tabs.showActions": "singleTerminalOrNarrow",
+    "terminal.integrated.tabs.showActiveTerminal": "singleTerminalOrNarrow",
+    "terminal.integrated.tabs.title": "${process}",
+    "terminal.integrated.tabStopWidth": 8,
+    "terminal.integrated.textBlinking": false,
+    "terminal.integrated.unicodeVersion": "11",
+    "terminal.integrated.useWslProfiles": true,
+    "terminal.integrated.windowsUseConptyDll": true,
+    "terminal.integrated.wordSeparators": " ()[]{}',\"`─‘’“”|",
+    "terminal.sourceControlRepositoriesKind": "integrated"
+}

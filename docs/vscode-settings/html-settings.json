@@ -1,0 +1,29 @@
+{
+    "html.autoClosingTags": true,
+    "html.autoCreateQuotes": true,
+    "html.completion.attributeDefaultValue": "doublequotes",
+    "html.customData": [],
+    "html.format.contentUnformatted": "pre,code,textarea",
+    "html.format.enable": true,
+    "html.format.extraLiners": "head, body, /html",
+    "html.format.indentHandlebars": false,
+    "html.format.indentInnerHtml": false,
+    "html.format.maxPreserveNewLines": null,
+    "html.format.preserveNewLines": true,
+    "html.format.templating": false,
+    "html.format.unformatted": "wbr",
+    "html.format.unformattedContentDelimiter": "",
+    "html.format.wrapAttributes": "auto",
+    "html.format.wrapAttributesIndentSize": null,
+    "html.format.wrapLineLength": 120,
+    "html.hover.documentation": true,
+    "html.hover.references": true,
+    "html.suggest.hideEndTagSuggestions": false,
+    "html.suggest.html5": true,
+    "html.trace.server": "messages",
+    "html.validate.scripts": true,
+    "html.validate.styles": true,
+    "[html]": {
+        "editor.suggest.insertMode": "replace"
+    }
+}

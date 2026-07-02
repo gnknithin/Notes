@@ -1,0 +1,9 @@
+{
+    "php.suggest.basic": true,
+    "php.validate.enable": true,
+    "php.validate.executablePath": null,
+    "php.validate.run": "onSave",
+    "[php]": {
+        "breadcrumbs.showArrays": true
+    }
+}

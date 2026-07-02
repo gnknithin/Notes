@@ -1,0 +1,15 @@
+{
+    "extensions.allowOpenInModalEditor": false,
+    "extensions.closeExtensionDetailsOnViewChange": false,
+    "extensions.experimental.affinity": {
+        "pub.name": 1
+    },
+    "extensions.experimental.deferredStartupFinishedActivation": false,
+    "extensions.experimental.issueQuickAccess": true,
+    "extensions.ignoreRecommendations": false,
+    "extensions.supportNodeGlobalNavigator": false,
+    "extensions.supportVirtualWorkspaces": {
+        "pub.name": false
+    },
+    "extensions.webWorker": "auto"
+}
